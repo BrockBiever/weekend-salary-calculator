@@ -1,0 +1,21 @@
+body {
+    background-color:lightgreen;
+}
+.over-budget {
+    color: grey;
+    font-style: italic ;
+}
+table, th, td {
+    border: 2px solid;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+h1, h2, form {
+    text-align: center;
+}
+footer {
+    border: 3px solid lightcoral;
+    border-radius: 5%;
+    text-align: left;
+}
